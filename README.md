@@ -15,7 +15,7 @@
 - 🚀 Desenvolvedor em constante evolução
 - 🌱 Sempre aprendendo coisas novas
 - 💬 Adoro trocar ideias sobre tecnologia
-- 📫 Me chame em: **seuemail@gmail.com**
+- 📫 Me chame em: **yanhenridev.com**
 
 ---
 
@@ -34,8 +34,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yanhenrique-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhenrique-dev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
