@@ -116,10 +116,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,6,30&height=130&section=footer&animation=blinking&stroke=00F5FF&strokeWidth=1"/>
-</div>
-
-<div align="center">
   <sub>⌨️ com muito café e <code>ctrl+z</code> — by Yan Henrique</sub>
 </div>
