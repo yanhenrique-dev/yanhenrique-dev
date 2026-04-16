@@ -1,121 +1,144 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,20&height=220&section=header&text=Yan%20Henrique&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=62&descSize=18&stroke=A78BFA&strokeWidth=2" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Yan+%F0%9F%91%8B;Apaixonado+por+tecnologia+%F0%9F%9A%80;Desenvolvedor+em+evolu%C3%A7%C3%A3o+%F0%9F%92%A1;Sempre+construindo+algo+novo+%F0%9F%94%A8;let+life+%3D+code+%2B+caf%C3%A9+%E2%98%95" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,6,30&height=230&section=header&text=%3C%2FYan%20Henrique%3E&fontSize=65&fontColor=fff&animation=blinking&fontAlignY=50&desc=turning+ideas+into+reality%2C+one+line+at+a+time.&descAlignY=72&descSize=16&stroke=00F5FF&strokeWidth=1.5"/>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://yanhenridev.com">
-    <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=00F5FF&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%24+whoami+%E2%86%92+Developer+%2B+Learner+%2B+Builder;%24+status+%E2%86%92+currently+pushing+to+main+%F0%9F%9A%80;%24+mood+%E2%86%92+if+(caf%C3%A9)+%7B+code()%3B+%7D+%E2%98%95;%24+goal+%E2%86%92+build+things+that+matter+%F0%9F%8C%8D;%24+debug+%E2%86%92+it+works+on+my+machine+%F0%9F%A4%B7" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=flat-square&labelColor=0a0a0a&color=00F5FF"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=yanhenrique-dev&color=A78BFA&style=flat-square&label=Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=yanhenrique-dev&color=00F5FF&style=flat-square&label=VIEWS&labelColor=0a0a0a"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/yanhenrique-dev?style=flat-square&color=A78BFA&labelColor=1a1a2e&label=Followers"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-0070F3?style=flat-square&labelColor=0a0a0a"/>
 </div>
 
 <br>
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## `$ cat about.txt`
 
-### 👨‍💻 Sobre mim
+<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-```javascript
-const yan = {
-  nome:       "Yan Henrique",
-  cargo:      "Desenvolvedor",
-  local:      "Brasil 🇧🇷",
-  estudando:  ["JavaScript", "Web Dev"],
-  hobbies:    ["Codar", "Aprender", "Café ☕"],
-  contato:    "yanhenridev.com",
-  motto:      "Code. Learn. Repeat."
-};
+```bash
+  ┌──────────────────────────────────────┐
+  │  Name    →  Yan Henrique             │
+  │  Role    →  Developer                │
+  │  Base    →  Brasil 🇧🇷               │
+  │  Focus   →  Web Development          │
+  │  Status  →  Always learning          │
+  │  OS      →  Dark Mode everywhere     │
+  └──────────────────────────────────────┘
 ```
 
-- 🔭 Construindo projetos e aprimorando skills
-- 🌱 Mergulhando fundo em **JavaScript** e **Web**
-- 💬 Bora trocar ideia sobre tech e projetos?
-- ⚡ Fun fact: dark mode é obrigatório, café também
+🔭 &nbsp;Construindo projetos do zero com propósito  
+🌱 &nbsp;Evoluindo em **JavaScript, HTML/CSS e Python**  
+🤝 &nbsp;Aberto a colaborar em projetos open source  
+⚡ &nbsp;Café é combustível. Dark mode é religião.  
+🌐 &nbsp;**[yanhenridev.com](https://yanhenridev.com)**
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Stack & Ferramentas
+## `$ ls ./skills`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" />
+|  Frontend  |  Languages  |  DevTools  |
+|:----------:|:-----------:|:----------:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=vscode&logoColor=white) |
+
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=dark&perline=8"/>
+</div>
+
+---
+
+## `$ cat currently_learning.md`
+
+<div align="center">
+JavaScript ████████████░░░░░░░░ 60%
+CSS        ██████████████░░░░░░ 70%
+Python     ████████░░░░░░░░░░░░ 40%
+Git/GitHub ████████████░░░░░░░░ 60%
 
 </div>
 
 ---
 
-### 🏆 Troféus
+## `$ git log --stats`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yanhenrique-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanhenrique-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=0070F3&text_color=c9d1d9&ring_color=00F5FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhenrique-dev&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yanhenrique-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=0070F3&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&locale=pt_BR"/>
 </div>
 
 ---
 
-### 📊 Estatísticas
+## `$ trophy --display`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=yanhenrique-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhenrique-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yanhenrique-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_BR" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yanhenrique-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage"/>
 </div>
 
 ---
 
-### 🐍 Contribuições
+## `$ tail -f activity.log`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanhenrique-dev/yanhenrique-dev/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanhenrique-dev/yanhenrique-dev/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yanhenrique-dev/yanhenrique-dev/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhenrique-dev&bg_color=0D1117&color=00F5FF&line=0070F3&point=00F5FF&area=true&area_color=00F5FF&hide_border=true&radius=6&custom_title=Contribuicoes+nos+ultimos+30+dias"/>
 </div>
 
 ---
 
-### 📈 Atividade
+## `$ cat /dev/random | quote`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhenrique-dev&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA&hide_border=true&radius=8" />
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
 </div>
 
 ---
 
-### 🌐 Contato
+## `$ ping connect.me`
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://yanhenridev.com">
-    <img src="https://img.shields.io/badge/Portfólio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yanhenridev.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanhenrique-dev)
+
 </div>
 
 <br>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=130&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,6,30&height=130&section=footer&animation=blinking&stroke=00F5FF&strokeWidth=1"/>
+</div>
+
+<div align="center">
+  <sub>⌨️ com muito café e <code>ctrl+z</code> — by Yan Henrique</sub>
 </div>
