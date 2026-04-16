@@ -30,7 +30,7 @@
   ┌──────────────────────────────────────┐
   │  Name    →  Yan Henrique             │
   │  Role    →  Developer                │
-  │  Base    →  Brasil 🇧🇷               │
+  │  Base    →  Brasil 🇧🇷                │
   │  Focus   →  Web Development          │
   │  Status  →  Always learning          │
   │  OS      →  Dark Mode everywhere     │
