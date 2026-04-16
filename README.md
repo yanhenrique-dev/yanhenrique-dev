@@ -87,34 +87,5 @@
 
 ---
 
-## `$ cat /dev/random | quote`
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
-
-</div>
-
----
-
-## `$ ping connect.me`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yanhenridev.com)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanhenrique-dev)
-
-</div>
-
-<br>
-
----
-
   <sub>⌨️ com muito café e <code>ctrl+z</code> — by Yan Henrique</sub>
 </div>
