@@ -55,11 +55,6 @@
 |:----------:|:-----------:|:----------:|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=dark&perline=8"/>
-</div>
 
 ---
 
