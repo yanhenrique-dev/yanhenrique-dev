@@ -65,18 +65,6 @@
 
 ---
 
-## `$ cat currently_learning.md`
-
-<div align="center">
-JavaScript ████████████░░░░░░░░ 60%
-CSS        ██████████████░░░░░░ 70%
-Python     ████████░░░░░░░░░░░░ 40%
-Git/GitHub ████████████░░░░░░░░ 60%
-
-</div>
-
----
-
 ## `$ git log --stats`
 
 <div align="center">
