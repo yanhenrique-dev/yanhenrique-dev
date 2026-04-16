@@ -71,14 +71,6 @@
 
 ---
 
-## `$ trophy --display`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yanhenrique-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage"/>
-</div>
-
----
-
 ## `$ tail -f activity.log`
 
 <div align="center">
