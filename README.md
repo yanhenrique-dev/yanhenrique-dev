@@ -66,29 +66,11 @@ Status     : Building cool stuff
 
 ---
 
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhenrique-dev&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🎯 Atualmente
-
-```bash
-[✓] Python avançado
-[✓] Automações
-[✓] IA local
-[✓] Linux & KDE
-[✓] Open Source
-```
 
 ---
 
