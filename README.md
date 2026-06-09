@@ -48,16 +48,6 @@ Status     : Building cool stuff
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yanhenrique-dev&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -75,12 +65,6 @@ Status     : Building cool stuff
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
