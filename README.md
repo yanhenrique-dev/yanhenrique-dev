@@ -59,15 +59,7 @@ Status     : Building cool stuff 🚀
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yanhenrique-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-### 📈 Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhenrique-dev&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=yanhenrique-dev&theme=highcontrast&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats"/>
 </div>
 
 ---
@@ -78,7 +70,7 @@ Status     : Building cool stuff 🚀
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SEU_USUARIO_AQUI)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanhenrique-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanhenriquedev@gmail.com)
 
 </div>
 
