@@ -59,13 +59,6 @@ Status     : Building cool stuff 🚀
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/yanhenrique-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanhenrique-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhenrique-dev&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=yanhenrique-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
