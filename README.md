@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Yan%20Henrique&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Linux%20%E2%80%A2%20Python%20%E2%80%A2%20Automation%20%E2%80%A2%20Open%20Source&descAlignY=60"/>
@@ -8,75 +9,92 @@
 
 ---
 
-# 🖥️ fastfetch
-
+### 🖥️ fastfetch
 ```console
-yan@linux:~$ fastfetch
+┌──(yan@cachyos)─[~]
+└─$ fastfetch
 
-OS         : Fedora Linux / CachyOS
+OS         : CachyOS Linux
+Kernel     : 7.0.12-1-cachyos
+DE/WM      : KDE Plasma 6.7.1 (Wayland)
+CPU        : Intel Xeon E5-2680 v4 (28) @ 2.40GHz
+GPU        : AMD Radeon RX 590 GME
+Memory     : 8 GiB
 Shell      : Fish
-Desktop    : KDE Plasma
 Editor     : VS Code
 Language   : Python, JavaScript
 Focus      : Automation, AI, Telegram Bots
-Status     : Building cool stuff
+Status     : Building cool stuff 🚀
 ```
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-- 🐧 Usuário Linux desde que quebrar o sistema virou forma de aprendizado
-- 🤖 Desenvolvimento de bots e automações
-- 🔥 Explorando IA local, self-hosting e open source
-- ⚙️ Apaixonado por resolver problemas com código
-- 🧠 Aprendizado contínuo através da prática
+- 🐧 **Linux User:** Usuário Linux desde que quebrar o sistema virou forma de aprendizado.
+- 🤖 **Automação & Bots:** Desenvolvimento de bots para Telegram e automações de tarefas diárias.
+- 🔥 **Open Source & Self-Hosting:** Explorando IA local, self-hosting e filosofia open source.
+- ⚙️ **Problem Solver:** Apaixonado por resolver problemas reais com código limpo e eficiente.
+- 🧠 **Aprendizado Contínuo:** Sempre explorando novas tecnologias e arquiteturas.
 
 ---
 
-## 🛠️ Stack
+### 🛠️ Minha Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-294172?style=for-the-badge&logo=archlinux&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-34D058?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanhenrique-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhenrique-dev&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <a href="https://github.com/yanhenrique-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanhenrique-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhenrique-dev&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=yanhenrique-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=yanhenrique-dev&theme=github-dark-blue&hide_border=true"/>
+---
+
+### 📈 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhenrique-dev&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+### 📫 Vamos conversar?
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SEU_USUARIO_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanhenrique-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhenrique-dev&theme=github-dark&hide_border=true&area=true"/>
-
----
-
-<div align="center">
-
-"Não existe problema impossível.
-Existe documentação que ainda não foi lida."
+> "Não existe problema impossível.
+> Existe documentação que ainda não foi lida." 💻
 
 </div>
+
