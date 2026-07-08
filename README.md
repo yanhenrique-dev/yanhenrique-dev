@@ -15,16 +15,12 @@
 └─$ fastfetch
 
 OS         : CachyOS Linux
-Kernel     : 7.0.12-1-cachyos
+Kernel     : 7.1.3-1-cachyos
 DE/WM      : KDE Plasma 6.7.1 (Wayland)
 CPU        : Intel Xeon E5-2680 v4 (28) @ 2.40GHz
 GPU        : AMD Radeon RX 590 GME
 Memory     : 8 GiB
 Shell      : Fish
-Editor     : VS Code
-Language   : Python, JavaScript
-Focus      : Automation, AI, Telegram Bots
-Status     : Building cool stuff 🚀
 ```
 
 ---
