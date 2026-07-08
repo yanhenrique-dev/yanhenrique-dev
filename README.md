@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Yan%20Henrique&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Linux%20%E2%80%A2%20Python%20%E2%80%A2%20Automation%20%E2%80%A2%20Open%20Source&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=330&color=timeGradient&text=Y&section=header&reversal=true&textBg=false&fontSize=0&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Fedora+%2B+KDE+Power+User;Python+Developer;Telegram+Bot+Builder;Automation+Engineer;AI+Explorer;Open+Source+Enthusiast"/>
 
