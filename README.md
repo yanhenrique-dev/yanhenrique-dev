@@ -1,14 +1,4 @@
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=330&color=timeGradient&text=Y&section=header&reversal=true&textBg=false&fontSize=0&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Fedora+%2B+KDE+Power+User;Python+Developer;Telegram+Bot+Builder;Automation+Engineer;AI+Explorer;Open+Source+Enthusiast"/>
-
-</div>
-
----
-
 ### 🖥️ fastfetch
 ```console
 ┌──(yan@cachyos)─[~]
