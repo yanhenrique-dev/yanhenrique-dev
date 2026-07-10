@@ -15,16 +15,6 @@ Shell      : Fish
 
 ---
 
-### 🚀 Sobre mim
-
-- 🐧 **Linux User:** Usuário Linux desde que quebrar o sistema virou forma de aprendizado.
-- 🤖 **Automação & Bots:** Desenvolvimento de bots para Telegram e automações de tarefas diárias.
-- 🔥 **Open Source & Self-Hosting:** Explorando IA local, self-hosting e filosofia open source.
-- ⚙️ **Problem Solver:** Apaixonado por resolver problemas reais com código limpo e eficiente.
-- 🧠 **Aprendizado Contínuo:** Sempre explorando novas tecnologias e arquiteturas.
-
----
-
 ### 🛠️ Minha Stack
 
 <div align="center">
