@@ -24,7 +24,10 @@ Shell   : Fish
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yanhenrique-dev&show_icons=true&theme=minimal&hide_border=true&locale=pt_br)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanhenrique-dev&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanhenrique-dev&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanhenrique-dev&theme=default)
+
 
 ## Contato
 
