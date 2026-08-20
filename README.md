@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Yan%20Henrique&fontSize=48&fontColor=ffffff&desc=dev%20%E2%80%A2%20linux%20%E2%80%A2%20open%20source&descSize=18&descAlignY=68&animation=fadeIn&color=0:0d1117,50:1f6feb,100:58a6ff" width="100%" />
 </h1>
 
-
-# Yan Henrique
-
-> *"Não existe problema impossível. Existe documentação que ainda não foi lida."*
-
 ```console
 yan@cachyos:~$ fastfetch
 
