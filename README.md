@@ -1,12 +1,5 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanhenrique-dev&theme=dark&animation=fade)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanhenrique-dev&theme=dark&animation=fade)-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanhenrique-dev&theme=dark&animation=fade)
 
-```console
-yan@cachyos:~$ fastfetch
-
-OS      : CachyOS Linux
-Kernel  : 7.1.3-1-cachyos
-DE/WM   : KDE Plasma 6.7.1 (Wayland)
-Memory  : 8 GiB UFF
-Shell   : Fish
-```
-## ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanhenrique-dev&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanhenrique-dev&theme=dark&animation=rgb)-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yanhenrique-dev&theme=dark&animation=rgb&utcOffset=0)
